@@ -1,4 +1,11 @@
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<br>
+<div align="center">
+<img class="profile" src="https://komarev.com/ghpvc/?username=feliciachin&style=flat-square&color=blue" alt="profileview"/>
+</div>
 
 ---
 
@@ -13,6 +20,12 @@
    -  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/felicia-chin-hui-fen-037315270)
    -  [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=red)](mailto:feliciahui@graduate.utm.my)
 
+---
+
+### :trophy: Achievement :
+- President of the St John Ambulance during STPM
+- Graduate my STPM with CGPA 3.67
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -34,7 +47,12 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=feliciachin&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
 
+---
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FqbnEzZzUyM3RwZTZjdG1ycXZsYWxnNWgxbTBuY3NscWQ5dDJ0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="200"/>
+</div>
 
+---
 <!--
 **FeliciaChin/FeliciaChin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
