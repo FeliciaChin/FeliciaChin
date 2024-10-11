@@ -10,7 +10,7 @@
 ---
 
 ### :woman_technologist: About Me :
-<p> My name is Felicia Chin Hui Fen. I am a fourth year student in Bachelor Of Computer Science (Bioinformatics) With Honours in Universiti Teknologi Malaysia (UTM). I am a very cheerful person and always will think positively not matter what happens :smile:.</p>
+<p> My name is Felicia Chin Hui Fen. I am a 24-year-old fresh graduate from Universiti Teknologi Malaysia (UTM), holding a Bachelor’s degree in Computer Science. I am a very cheerful person and always will think positively not matter what happens :smile:. I am eager to leverage my academic knowledge in a practical setting as a Software Engineer, Data Analyst or Web Developer. I am committed to continuous learning and development, and I am excited about the opportunity to contribute to an organization’s success while expanding my skills and experience.</p>
 
 - :house_with_garden: I am from Nibong Tebal, Penang.
     
