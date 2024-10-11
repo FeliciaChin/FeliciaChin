@@ -18,7 +18,7 @@
 
 - :mailbox:How to reach me:
    -  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/felicia-chin-hui-fen-037315270)
-   -  [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=red)](mailto:feliciahui@graduate.utm.my)
+   -  [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=red)](mailto:feliciac552@gmail.com)
 
 ---
 
